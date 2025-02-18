@@ -1,0 +1,17 @@
+# Python (Backend)
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+.idea/
+
+# Node.js (Frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/.cache/
+.DS_Store
+
+# Virtual Environment
+Algomatics/Scripts/
